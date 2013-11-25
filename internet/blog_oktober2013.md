@@ -1,4 +1,4 @@
-Agora Code-Kata Oktober 2013, 01.10.2013
+Agora Code-Kata Oktober 2013, 2013-10-01
 
 Weil viele uns weder JavaScript noch populäre JavaScript-Webframeworks wie node.js kennen, hat sich Florian angeboten uns eine kleine Einführung in Agora, der node.js-Anwendung hinter softwerkskammer.org zu geben.
 
